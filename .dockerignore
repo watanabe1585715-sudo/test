@@ -1,0 +1,11 @@
+.git
+.tools
+node_modules
+**/node_modules
+**/dist
+**/.next
+.env
+*.md
+frontend-react
+frontend-vue
+frontend-next

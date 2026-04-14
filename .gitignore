@@ -1,0 +1,9 @@
+.env
+.tools/
+node_modules/
+dist/
+.next/
+*.log
+/tmp/
+/recruit-api
+/recruit-batch

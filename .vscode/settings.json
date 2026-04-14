@@ -1,0 +1,15 @@
+{
+  "editor.definitionLinkOpensInPeek": false,
+  "editor.gotoLocation.multipleDefinitions": "goto",
+  "editor.gotoLocation.multipleImplementations": "goto",
+  "editor.gotoLocation.multipleReferences": "goto",
+  "editor.gotoLocation.alternativeDefinitionCommand": "editor.action.goToReferences",
+  "editor.stablePeek": false,
+  "go.useLanguageServer": true,
+  "go.gotoSymbol.includeImports": true,
+  "javascript.suggest.autoImports": true,
+  "typescript.suggest.autoImports": true,
+  "typescript.preferences.preferTypeOnlyAutoImports": false,
+  "typescript.preferences.includePackageJsonAutoImports": "on",
+  "typescript.updateImportsOnFileMove.enabled": "always"
+}
